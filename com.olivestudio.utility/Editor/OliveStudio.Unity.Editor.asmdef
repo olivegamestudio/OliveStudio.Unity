@@ -1,5 +1,5 @@
 {
-    "name": "UtilityUnityEditor",
+    "name": "OliveStudio.Unity.Editor",
     "rootNamespace": "",
     "references": [
         "Unity.Localization",
