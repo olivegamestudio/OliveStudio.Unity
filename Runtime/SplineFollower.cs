@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using Unity.Mathematics;
 using UnityEngine.Splines;
 
 public class SplineFollower : MonoBehaviour

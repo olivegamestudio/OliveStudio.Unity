@@ -2,6 +2,8 @@
     "name": "OliveStudio.Unity",
     "rootNamespace": "",
     "references": [
+        "Unity.Splines",
+        "Unity.Mathematics",
         "Unity.Localization",
         "Unity.TextMeshPro"
     ],
